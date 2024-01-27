@@ -12,8 +12,8 @@ Di seguito troverai una selezione di passi da seguire per personalizzare il tuo 
 
 Puoi trovarmi anche su:
 
-[![Linkedin](https://github.com/EmanueleSeminara/images/blob/main/LinkedIn_icon_2x20.png?raw=true)](https://www.linkedin.com/in/francesco-inguglia/)
-[![Instagram](https://github.com/EmanueleSeminara/images/blob/main/Instagram_icon_20x20.png?raw=true)](https://www.instagram.com/fraa9696/)
+[![Linkedin](https://github.com/EmanueleSeminara/images/blob/main/icon_square_linkedin_50.png?raw=true)](https://www.linkedin.com/in/francesco-inguglia/)
+[![Instagram](https://github.com/EmanueleSeminara/images/blob/main/icon_square_instagram_50.png?raw=true)](https://www.instagram.com/fraa9696/)
 
 
 ## Aspetto del Curriculum
